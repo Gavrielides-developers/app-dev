@@ -1,2 +1,2 @@
-# app-style
+# App
 Gavrielides Core Style Sheets
